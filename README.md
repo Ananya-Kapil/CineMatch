@@ -96,8 +96,12 @@ python main.py
 ---
 
 ## 💻 Sample Output
-C:\Users\anmol\Pictures\Screenshots\Screenshot 2026-07-23 145644.png
-C:\Users\anmol\Pictures\Screenshots\Screenshot 2026-07-23 145700.png
+<h2>📸 Screenshots</h2>
+
+<p align="center">
+  <img src="assets/screenshot1.png" width="48%">
+  <img src="assets/screenshot2.png" width="48%">
+</p>
 
 ```text
 ========================================
