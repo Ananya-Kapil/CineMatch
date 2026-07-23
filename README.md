@@ -96,13 +96,13 @@ python main.py
 ---
 
 ## 💻 Sample Output
-<h2>📸 Screenshots</h2>
-
 <p align="center">
-  <img src="assets/screenshot1.png" width="48%">
-  <img src="assets/screenshot2.png" width="48%">
+  <img src="assets/Screenshot%202026-07-23%20145644.png" width="800">
 </p>
 
+<p align="center">
+  <img src="assets/Screenshot%202026-07-23%20145700.png" width="800">
+</p>
 ```text
 ========================================
 🎬 Movie Recommendation System
