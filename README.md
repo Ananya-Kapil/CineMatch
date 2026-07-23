@@ -96,6 +96,8 @@ python main.py
 ---
 
 ## 💻 Sample Output
+C:\Users\anmol\Pictures\Screenshots\Screenshot 2026-07-23 145644.png
+C:\Users\anmol\Pictures\Screenshots\Screenshot 2026-07-23 145700.png
 
 ```text
 ========================================
